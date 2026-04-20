@@ -15,6 +15,9 @@ public class CodeScript : MonoBehaviour
 
     public GameObject player;
     public GameObject keypad;
+    public GameObject endingPanel1;
+    public GameObject endingPanel2;
+    public GameObject endingPanel3;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -29,9 +32,22 @@ public class CodeScript : MonoBehaviour
     {
         if (enteredPassword.Length == passDigits)
         {
-            if (enteredPassword == password1 || enteredPassword == password2 || enteredPassword == password3)
+            if (enteredPassword == password1)
             {
                 keypadDisplay.text = "Correct Password";
+                endingPanel1.SetActive(true);
+                this.gameObject.SetActive(false);
+            }
+            else if (enteredPassword == password2)
+            {
+                keypadDisplay.text = "Correct Password";
+                endingPanel2.SetActive(true);
+                this.gameObject.SetActive(false);
+            }
+            else if (enteredPassword == password3)
+            {
+                keypadDisplay.text = "Correct Password";
+                endingPanel3.SetActive(true);
                 this.gameObject.SetActive(false);
             }
             else
@@ -39,19 +55,6 @@ public class CodeScript : MonoBehaviour
                 keypadDisplay.text = "Wrong Password";
                 enteredPassword = "";
             }
-        }
-
-        if (enteredPassword == password1)
-        {
-            //open ending one
-        }
-        else if (enteredPassword == password2)
-        {
-            //open ending two
-        }
-        else if (enteredPassword == password3)
-        {
-            //open ending three
         }
     }
 
