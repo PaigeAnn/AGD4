@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 918fbffc39bcef547986bb5131e3b878
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192232
+  packageName: Pet Supplies Pack
+  packageVersion: 1.0
+  assetPath: Assets/PetSuppliesPack/Materials/PetSupplies_TextureAtlas_Purple.mat
+  uploadId: 424976

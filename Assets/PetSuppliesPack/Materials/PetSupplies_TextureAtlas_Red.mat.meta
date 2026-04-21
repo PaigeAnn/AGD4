@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b60c3c570815d8d49a62465b4257b9d1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192232
+  packageName: Pet Supplies Pack
+  packageVersion: 1.0
+  assetPath: Assets/PetSuppliesPack/Materials/PetSupplies_TextureAtlas_Red.mat
+  uploadId: 424976

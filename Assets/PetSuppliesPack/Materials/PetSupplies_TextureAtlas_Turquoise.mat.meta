@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8950a4ee79959a94f9b241a04b6fca38
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192232
+  packageName: Pet Supplies Pack
+  packageVersion: 1.0
+  assetPath: Assets/PetSuppliesPack/Materials/PetSupplies_TextureAtlas_Turquoise.mat
+  uploadId: 424976
