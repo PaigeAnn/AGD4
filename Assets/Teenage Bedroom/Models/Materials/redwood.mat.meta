@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7f51f5b4d6a86184d8ac409833118bd2
+timeCreated: 1502894032
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Models/Materials/redwood.mat
+  uploadId: 791686

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: adf53234d0f4bde4f974991690427b1b
+timeCreated: 1503308871
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Prefabs/Printer.prefab
+  uploadId: 791686

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 85bd4aba8737ce94a9b026d57e58d83b
+timeCreated: 1502876834
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Models/Materials/pencils.mat
+  uploadId: 791686

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9a17aafc3931c1049bf817279bfb2fb4
+timeCreated: 1503390609
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Models/Materials/telescope.mat
+  uploadId: 791686

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2f08a5aab603e0b4bbabd021882eddda
+timeCreated: 1503334512
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Prefabs/Curtain.prefab
+  uploadId: 791686

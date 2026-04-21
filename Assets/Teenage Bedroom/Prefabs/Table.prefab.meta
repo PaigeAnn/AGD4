@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ca7b71c247fde734db075d054e67b751
+timeCreated: 1503074574
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Prefabs/Table.prefab
+  uploadId: 791686

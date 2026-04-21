@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 247a830e5e528094caaf508a2346e069
+timeCreated: 1503399449
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Models/Materials/Post It.mat
+  uploadId: 791686

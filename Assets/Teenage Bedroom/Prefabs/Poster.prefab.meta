@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5dc286c31987bc34fa2f56b12b40d9ee
+timeCreated: 1503313184
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Prefabs/Poster.prefab
+  uploadId: 791686

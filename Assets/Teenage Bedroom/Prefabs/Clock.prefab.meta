@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 27afdf34baf26c84eb43ba4ace3fb3c4
+timeCreated: 1502889279
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Prefabs/Clock.prefab
+  uploadId: 791686

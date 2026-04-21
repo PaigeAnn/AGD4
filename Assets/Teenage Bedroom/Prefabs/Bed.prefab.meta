@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 830c1e2187e52ec4eb35088a48fbfc13
+timeCreated: 1502868817
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Prefabs/Bed.prefab
+  uploadId: 791686

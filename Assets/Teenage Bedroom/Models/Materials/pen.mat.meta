@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f659fcc20adc55d44b3a248325517132
+timeCreated: 1502910351
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Models/Materials/pen.mat
+  uploadId: 791686

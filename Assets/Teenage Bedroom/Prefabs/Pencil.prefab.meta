@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bae36a371f403d240a01f9f3e0134c3c
+timeCreated: 1502876885
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Prefabs/Pencil.prefab
+  uploadId: 791686

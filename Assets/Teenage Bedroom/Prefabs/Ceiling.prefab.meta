@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0bb86d852c9f649448fc18076611ae18
+timeCreated: 1503380847
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Prefabs/Ceiling.prefab
+  uploadId: 791686

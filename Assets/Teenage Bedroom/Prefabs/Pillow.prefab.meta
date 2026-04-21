@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 599361965fb7e314ca2fb40691e0f6da
+timeCreated: 1502874214
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Prefabs/Pillow.prefab
+  uploadId: 791686

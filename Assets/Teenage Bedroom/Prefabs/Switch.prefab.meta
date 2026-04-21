@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: da6e034e3ab64724893bec5e56e4faf0
+timeCreated: 1502820613
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Prefabs/Switch.prefab
+  uploadId: 791686

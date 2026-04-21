@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 270281d3763e29e4dad64208a0004d1e
+timeCreated: 1502820273
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Models/Materials/phone.mat
+  uploadId: 791686

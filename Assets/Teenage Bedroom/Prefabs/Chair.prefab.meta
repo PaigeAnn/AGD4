@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0a6e09739ed31924ba90f319e3a0ded6
+timeCreated: 1503077801
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Prefabs/Chair.prefab
+  uploadId: 791686

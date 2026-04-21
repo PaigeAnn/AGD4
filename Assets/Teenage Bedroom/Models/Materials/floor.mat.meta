@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ad44f13bd973c634cb5650d29318fa5e
+timeCreated: 1503161228
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Models/Materials/floor.mat
+  uploadId: 791686

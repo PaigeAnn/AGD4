@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 21cc5c9d77d705b449c50669b54ec19e
+timeCreated: 1503308481
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Models/Materials/Printer.mat
+  uploadId: 791686

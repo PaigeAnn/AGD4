@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6575b14f12107444eab06508038a560a
+timeCreated: 1502805279
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Models/Materials/pictures.mat
+  uploadId: 791686

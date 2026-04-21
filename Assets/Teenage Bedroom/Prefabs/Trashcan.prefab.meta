@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bcc43b20bf63e4a4589a6e980d6aa646
+timeCreated: 1503245482
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Prefabs/Trashcan.prefab
+  uploadId: 791686

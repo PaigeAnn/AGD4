@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 48ca9c0719e17f14498deae9faba2dc0
+timeCreated: 1502873794
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Prefabs/Blanket.prefab
+  uploadId: 791686

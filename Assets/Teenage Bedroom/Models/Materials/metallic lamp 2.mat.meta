@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e4acdd2f1cb0af947bddb1af5c57fc8e
+timeCreated: 1503414428
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Models/Materials/metallic lamp 2.mat
+  uploadId: 791686

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 15f35431f02030b4d8f63720ec8c2c0b
+timeCreated: 1502806575
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Prefabs/Shoes.prefab
+  uploadId: 791686

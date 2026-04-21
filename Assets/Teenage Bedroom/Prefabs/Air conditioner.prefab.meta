@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5096d6ddb1c58a64e8a786398d25e7ad
+timeCreated: 1502815168
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Prefabs/Air conditioner.prefab
+  uploadId: 791686

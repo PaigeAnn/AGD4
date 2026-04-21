@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 746b7b0305428704ba31684b48b110ed
+timeCreated: 1503424424
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98586
+  packageName: Teenage Bedroom
+  packageVersion: 1.3
+  assetPath: Assets/Teenage Bedroom/Prefabs/Tree.prefab
+  uploadId: 791686
