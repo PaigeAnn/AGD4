@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - Clue
+  - PickupItem
+  - Collect
+  - EndDoor
+  - BadDoor
   layers:
   - Default
   - TransparentFX

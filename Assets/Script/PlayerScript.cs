@@ -13,6 +13,10 @@ public class PlayerScript : MonoBehaviour
     float velocity;
 
     public Clue currentClue;
+
+    public GameObject popUp;
+    public GameObject endPanel;
+    public GameObject deathPanel;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -64,11 +68,39 @@ public class PlayerScript : MonoBehaviour
         }
     }
 
+    public void list(InputAction.CallbackContext ctx)
+    {
+        if (ctx.performed && !popUp.activeSelf)
+        {
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
+            popUp.SetActive(true);
+        }
+        else if (ctx.performed && popUp.activeSelf)
+        {
+            Cursor.lockState = CursorLockMode.Locked;
+            Cursor.visible = false;
+            popUp.SetActive(false);
+        }
+    }
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Clue"))
         {
             currentClue = other.GetComponent<Clue>();
+        }
+        if (other.CompareTag("Collect"))
+        {
+            other.gameObject.SetActive(false);
+        }
+        if (other.CompareTag("EndDoor"))
+        {
+            endPanel.SetActive(true);
+        }
+        if (other.CompareTag("BadDoor"))
+        { 
+            deathPanel.SetActive(true);
         }
     }
 
