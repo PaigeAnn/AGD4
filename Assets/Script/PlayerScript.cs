@@ -11,6 +11,9 @@ public class PlayerScript : MonoBehaviour
     float h, v;
 
     float velocity;
+    public float jumpStrength = 5f;
+    public float gravity = -9.81f;
+    public float gravityMultiplier = 3f;
 
     public Clue currentClue;
 
@@ -31,14 +34,17 @@ public class PlayerScript : MonoBehaviour
         Vector3 movement = new Vector3(moveX, 0, moveZ);
         movement = Vector3.ClampMagnitude(movement, speed);
 
-        if (controller.isGrounded)
+        if (controller.isGrounded && velocity < 0)
         {
-            velocity = -1f; // small stick-to-ground force
+            velocity = -1f;
         }
         else
         {
-            velocity += -9.8f * Time.deltaTime;
+            velocity += gravity * gravityMultiplier * Time.deltaTime;
         }
+
+
+
 
         movement.y = velocity;
         movement *= Time.deltaTime;
@@ -58,6 +64,18 @@ public class PlayerScript : MonoBehaviour
         h = input.x;
         v = input.y;
     }
+    public void Jump(InputAction.CallbackContext ctx)
+    {
+        if (!controller.isGrounded)
+        {
+            return;
+        }
+        if (ctx.performed)
+        {
+            velocity = jumpStrength;
+        }
+    }
+
 
     public void Interact(InputAction.CallbackContext ctx)
     {
