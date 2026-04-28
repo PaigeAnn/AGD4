@@ -20,6 +20,7 @@ public class PlayerScript : MonoBehaviour
     public GameObject popUp;
     public GameObject endPanel;
     public GameObject deathPanel;
+    public int collectionCount=0;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -111,10 +112,14 @@ public class PlayerScript : MonoBehaviour
         if (other.CompareTag("Collect"))
         {
             other.gameObject.SetActive(false);
+            collectionCount++;
         }
         if (other.CompareTag("EndDoor"))
         {
-            endPanel.SetActive(true);
+            if (collectionCount == 3)
+            {
+                endPanel.SetActive(true);
+            }
         }
         if (other.CompareTag("BadDoor"))
         { 
