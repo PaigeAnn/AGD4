@@ -16,6 +16,7 @@ public class PlayerScript : MonoBehaviour
     public float gravityMultiplier = 3f;
 
     public Clue currentClue;
+    public Countdown countdown;
 
     public GameObject popUp;
     public GameObject endPanel;
@@ -120,10 +121,12 @@ public class PlayerScript : MonoBehaviour
             {
                 endPanel.SetActive(true);
             }
+            countdown.StopTimer();
         }
         if (other.CompareTag("BadDoor"))
         { 
             deathPanel.SetActive(true);
+                countdown.StopTimer();
         }
     }
 
